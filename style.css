@@ -314,7 +314,7 @@ html{
     position: absolute;
     bottom: 0;
     z-index: 1;
-    transform: scale(1.05);
+    
     box-shadow: 0 0 20px -15px white;
     transition: transform 0.8s;
 }
@@ -825,14 +825,8 @@ section{
         transform: transform 1s;
     }
     .service h4::after{
-        content: '';
-        width: 40px;
-        height: 30px;
-        background: linear-gradient(to right, white, lightgray);
-        position: absolute;
-        right: -5px;
-        top: -5px;
-        z-index: -1;
+ 
+            display: none;
     }
     .service h4::before{
         content: '';
@@ -905,14 +899,7 @@ section{
         margin-top: 20px;
     }
     .service h4::after{
-        content: '';
-        width: 40px;
-        height: 30px;
-        background: linear-gradient(to right, white, lightgray);
-        position: absolute;
-        right: -5px;
-        top: -5px;
-        z-index: -1;
+        display: none;
     }
     .service h4::before{
         content: '';
@@ -1051,14 +1038,7 @@ section{
         margin-top: 20px;
     }
     .service h4::after{
-        content: '';
-        width: 40px;
-        height: 30px;
-        background: linear-gradient(to right, white, lightgray);
-        position: absolute;
-        right: -5px;
-        top: -5px;
-        z-index: -1;
+       display:none;
     }
     .service h4::before{
         content: '';
