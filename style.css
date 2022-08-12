@@ -249,7 +249,7 @@ html{
 
 .about .about-content .right{
     width: 45%;
-    color: black;
+    color:navy;
 }
 
 .about .about-content .right .text{
@@ -291,7 +291,7 @@ html{
 }
 
 .services h1{
-    color: gray; 
+    color: white; 
     text-align: center;
     font-size: 80px;
     transform: translateY(23px);
@@ -1001,6 +1001,8 @@ section{
     }
 
 /* GET-TO-KNOW-ME Section*/
+
+
 
     .services .service-content .main{
         width: 100%;
