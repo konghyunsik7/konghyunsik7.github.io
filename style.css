@@ -120,9 +120,13 @@ html{
     background: rgb(255, 180, 180);
     
 }
+#ricebowl{
+    color:aqua;
+}
 .navbar .logo{
     color: rebeccapurple;
     font-size: 30px;
+    font-weight: 1000;
 }
 .navbar ul li{
     list-style: none;
@@ -180,6 +184,9 @@ html{
     object-fit: cover;
     opacity: 0.1;
     overflow: hidden;
+}
+#audio{
+    margin-top:25px;
 }
 
 
