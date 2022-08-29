@@ -1,6 +1,3 @@
-Hello, welcome to my personal portfolio!
+<h1>:fire:Personal Portfolio:fire:<h1>
 
-Simply copy and paste: konghyunsik7.github.io 
-
-to access my website.
-
+<h3>:star:<a href="https://konghyunsik7.github.io/">konghyunsik7.github.io</a></h3>
