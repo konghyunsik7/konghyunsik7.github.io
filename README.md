@@ -7,7 +7,6 @@
 
 <p>⚡️ Fully Responsive
 <p>⚡️ Valid HTML5 & CSS3
-<p>⚡️ Typing animation using Typed.js
 <p>⚡️ Easy to modify
 
 <h4>Sections 📚</h4>
